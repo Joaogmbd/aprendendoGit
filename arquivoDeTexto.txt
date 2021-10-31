@@ -1,1 +1,3 @@
 estou escrevendo em um arquivo de texto!
+
+aprendendo a enviar e manipular repositórios usando o git bash
